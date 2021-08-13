@@ -17,6 +17,7 @@
 
 .. toctree::
    :maxdepth: 3
+   :caption: Справка по созданию документации
       
    preface
    sphinx
