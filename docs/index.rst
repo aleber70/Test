@@ -16,7 +16,10 @@
 .. note:: *Последняя правка:* |today|
 
 .. toctree::
+<<<<<<< HEAD
    :maxdepth: 2
+=======
+>>>>>>> c08af52a9ff3244cf14cb96de0f1cb7d544c8aea
       
    preface
    sphinx
