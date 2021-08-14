@@ -20,6 +20,7 @@
    :maxdepth: 2
 =======
 >>>>>>> c08af52a9ff3244cf14cb96de0f1cb7d544c8aea
+   :caption: Справка по созданию документации
       
    preface
    sphinx
