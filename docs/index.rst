@@ -17,7 +17,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Справка по созданию документации
+   :caption: Справка по Sphinx
       
    preface
    sphinx
