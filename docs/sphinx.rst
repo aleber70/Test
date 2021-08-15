@@ -8,10 +8,8 @@
 .. note:: *Последняя правка:* |today|
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Справка по Sphinx
 
    rst-markup
    sphinx-markup
-
-* :ref:`genindex`

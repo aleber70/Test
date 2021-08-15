@@ -32,7 +32,5 @@
    :caption: Справка по Sphinx
 
    sphinx
-   rst-markup
-   sphinx-markup
 
 * :ref:`genindex`
