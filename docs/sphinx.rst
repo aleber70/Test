@@ -9,7 +9,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Справка по Sphinx
+   :caption: Справка
 
    rst-markup
    sphinx-markup
