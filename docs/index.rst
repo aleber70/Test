@@ -32,6 +32,6 @@
    :maxdepth: 2
    :caption: Справка по Sphinx
 
-   sphinx
+   sphinx/sphinx
 
 * :ref:`genindex`

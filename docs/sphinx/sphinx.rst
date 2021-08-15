@@ -1,5 +1,5 @@
 .. _my-reference-label:
- 
+
 Генератор документации Sphinx
 =============================
 
@@ -9,7 +9,8 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: Справка
+   :caption: Справка по Sphinx
 
+   generator-sphinx
    rst-markup
    sphinx-markup
