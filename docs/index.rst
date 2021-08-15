@@ -19,6 +19,7 @@
    :maxdepth: 2
    :caption: Тестовый сайт
 
+   main
    preface
    git
    rtd-gh
