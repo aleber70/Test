@@ -18,11 +18,8 @@
 .. toctree::
    :maxdepth: 2
    :caption: Тестовый сайт
-      
+
    preface
-   sphinx
-   rst-markup
-   sphinx-markup
    git
    rtd-gh
    knownissues
@@ -30,5 +27,12 @@
    agreements
    win-sphinx
 
-   
+.. toctree::
+   :maxdepth: 2
+   :caption: Справка по Sphinx
+
+   sphinx
+   rst-markup
+   sphinx-markup
+
 * :ref:`genindex`

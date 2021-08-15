@@ -11,7 +11,6 @@
    :maxdepth: 2
    :caption: Справка по Sphinx
 
-   sphinx
    rst-markup
    sphinx-markup
 
