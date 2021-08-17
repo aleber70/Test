@@ -1,53 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Godot Engine documentation build configuration file
-
-import sphinx_rtd_theme
-import sys
-import os
-
-# -- General configuration ------------------------------------------------
-
-needs_sphinx = "1.3"
-
-# Sphinx extension module names and templates location
-sys.path.append(os.path.abspath("_extensions"))
-extensions = [
-    "sphinx_tabs.tabs",
-    "notfound.extension",
-    "sphinxext.opengraph",
-]
-
-# Warning when the Sphinx Tabs extension is used with unknown
-# builders (like the dummy builder) - as it doesn't cause errors,
-# we can ignore this so we still can treat other warnings as errors.
-sphinx_tabs_nowarn = True
-
-# Custom 4O4 page HTML template.
-# https://github.com/readthedocs/sphinx-notfound-page
-notfound_context = {
-    "title": "Page not found",
-    "body": """
-        <h1>Page not found</h1>
-        <p>
-            Sorry, we couldn't find that page. It may have been renamed or removed
-            in the version of the documentation you're currently browsing.
-        </p>
-        <p>
-            If you're currently browsing the
-            <em>latest</em> version of the documentation, try browsing the
-            <a href="/en/stable/"><em>stable</em> version of the documentation</a>.
-        </p>
-        <p>
-            Alternatively, use the
-            <a href="#" onclick="$('#rtd-search-form [name=\\'q\\']').focus()">Search docs</a>
-            box on the left or <a href="/">go to the homepage</a>.
-        </p>
-    """,
-}
-
-# -*- coding: utf-8 -*-
-#
 # Configuration file for the Sphinx documentation builder.
 #
 # This file does only contain a selection of the most common options. For a
