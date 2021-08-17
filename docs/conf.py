@@ -82,7 +82,7 @@ html_theme = 'sphinx_rtd_theme'
 #
 html_theme_options = {
     # if we have a html_logo below, this shows /only/ the logo with no title text
-    "logo_only": True
+    #"logo_only": True
 }
 html_logo = "img/docs_logo.png"
 
