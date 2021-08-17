@@ -1,17 +1,18 @@
-@import "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:700&amp;subset=latin-ext";
+/* @import "https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:700&amp;subset=latin-ext"; */
 
 h1, h2, h3, h4, h5, h6 {
-    margin-top: 0;
-    font-weight: 700;
-    font-family: "Saira Extra Condensed", Arial, sans-serif;
+    /* margin-top: 0; */
+    /* font-weight: 700; */
+    /* font-family: "Saira Extra Condensed", Arial, sans-serif; */
+    font-size: 0.8em
 }
-
+/*
 h1, h2, h3 {
     text-transform: uppercase;
 }
-
+*/
 /* ... */
 
-body {
+p {
     font-size: 0.8em
 }
