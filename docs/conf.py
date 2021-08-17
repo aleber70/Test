@@ -118,7 +118,7 @@ latex_elements = {
 
     # The font size ('10pt', '11pt' or '12pt').
     #
-    'pointsize': '14pt',
+    # 'pointsize': '10pt',
 
     # Additional stuff for the LaTeX preamble.
     #
@@ -176,3 +176,6 @@ epub_title = project
 
 # A list of files that should not be packed into the epub file.
 epub_exclude_files = ['search.html']
+
+
+html_css_files = ["custom.css"]
