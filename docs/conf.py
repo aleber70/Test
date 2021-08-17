@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'alexgamedev'
+project = 'Тестовый сайт'
 copyright = '2021, alex'
 author = 'alex'
 
