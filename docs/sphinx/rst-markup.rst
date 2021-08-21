@@ -68,7 +68,7 @@ SublimeText
 **GitGutter** или **Modific** (https://github.com/jisaacks/GitGutter, https://github.com/gornostal/Modific) 
 Данные плагины подсвечивают строки измененные последним коммитом, другими словами diff tools в режиме реального времени.
 
-.. image:: images/gutter.png
+.. image:: _static/gutter.png
 
 Online reStructuredText editor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -561,16 +561,16 @@ Sphinx расширяет возможности создания ссылок, 
     
     Вставка изображения между слов |кубик-рубика| осуществляться с помощью функции автозамены:
     
-    .. |кубик-рубика| image:: images/favicon.ico
+    .. |кубик-рубика| image:: _static/favicon.ico
 
 
-.. |кубик-рубика| image:: images/favicon.ico
+.. |кубик-рубика| image:: _static/favicon.ico
 
 Вставка изображений между абзацами осуществляется так:
 
 ::
 
-    .. figure:: images/favicon.png
+    .. figure:: _static/favicon.png
            :scale: 300 %
            :align: center
            :alt: Альтернативный текст
@@ -581,7 +581,7 @@ Sphinx расширяет возможности создания ссылок, 
 
 .. _my-favicon:
 
-.. figure:: images/favicon.png
+.. figure:: _static/favicon.png
            :scale: 300 %
            :align: center
            :alt: Альтернативный текст

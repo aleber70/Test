@@ -1,4 +1,4 @@
-.. _my-reference-label:
+.. _sphinx-label:
 
 Генератор документации Sphinx
 =============================
@@ -11,6 +11,6 @@
    :maxdepth: 3
    :caption: Справка по Sphinx
 
-   generator-sphinx
+   sphinx-chapter
    rst-markup
    sphinx-markup
