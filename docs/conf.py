@@ -179,3 +179,4 @@ epub_exclude_files = ['search.html']
 
 
 #html_css_files = ["custom.css"]
+html_favicon = "img/favicon.ico"
